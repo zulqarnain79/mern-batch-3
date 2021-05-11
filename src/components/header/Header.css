@@ -1,0 +1,19 @@
+.header-inner .item img {
+    /* width: 200px; */
+    width: 120px;
+}
+
+.header-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.header-inner .item ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.header-inner .item ul li {
+    margin: 8px;
+}
